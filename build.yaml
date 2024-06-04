@@ -19,6 +19,6 @@
 ---
 include:
   - board: nrf52840_m2
-    shield: ergodash_left
+    shield: cosmos_left
   - board: nrf52840_m2
-    shield: ergodash_right
+    shield: cosmos_right
