@@ -6,8 +6,8 @@
 
 &kscan0 {
     col-gpios = <&promicro 5 GPIO_ACTIVE_HIGH>, // Col 5 in the schematic
-    col-gpios = <&promicro 6 GPIO_ACTIVE_HIGH>, // Col 6 in the schematic
-    col-gpios = <&promicro 7 GPIO_ACTIVE_HIGH>, // Col 7 in the schematic
-    col-gpios = <&promicro 8 GPIO_ACTIVE_HIGH>, // Col 8 in the schematic
-    col-gpios = <&promicro 9 GPIO_ACTIVE_HIGH>; // Col 9 in the schematic
+                <&promicro 6 GPIO_ACTIVE_HIGH>, // Col 6 in the schematic
+                <&promicro 7 GPIO_ACTIVE_HIGH>, // Col 7 in the schematic
+                <&promicro 8 GPIO_ACTIVE_HIGH>, // Col 8 in the schematic
+                <&promicro 9 GPIO_ACTIVE_HIGH>; // Col 9 in the schematic
 };
