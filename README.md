@@ -1,2 +1,4 @@
 Pin Diagram
 ![new keyboard wiring diagram](https://github.com/esize/zmk-config/assets/22261786/41c2f78b-627f-4ca8-82ff-04dd8c70d11d)
+
+Created using the [Cosmos Keyboard Generator](https://ryanis.cool/cosmos/beta#cf:ChYIBBAFWAAYBCADKNcBMM0BUAJAAEgAWnkKEQiLieSlkDYQqY2AtvGXnOQBEg8I54XklMADEPaJhJ6AgHISDwijh9iNkAMQjYWEnoCAchIPCKTCh4gBEICMkpj6h6sBEg0IgOCKmAEQ34mAgIA5EhEIvoe8jbADEMOH0Jzw+I/WAhIPCKyH4JbQBRDPi4iegIByQlMIBOABAXgI2AEBEAFIAEgASABIAEgASABIAGAAaABwARgBIAEoAJgB9AOoAegHoAHIAbABAJABhAe4AQCAAQAwADhQWAGIAQHAAQDIAdgE0AGEBw==)
